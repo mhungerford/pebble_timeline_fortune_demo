@@ -1,0 +1,19 @@
+{
+  "uuid": "12345678-ab12-abcd-ab12-123456789abc",
+  "shortName": "fortune timeline",
+  "longName": "fortune timeline",
+  "companyName": "Matthew Hungerford",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["basalt"],
+  "watchapp": {
+    "watchface": false,
+    "hiddenApp": true
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
