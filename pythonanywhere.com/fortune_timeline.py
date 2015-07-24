@@ -25,7 +25,7 @@ time_6am += datetime.timedelta(days=1) # post 1 day ahead (ie. tomorrow)
 time_zulu = time_6am.isoformat().rsplit(".", 1 )[ 0 ] + 'Z',
 
 # have the pin hold just the date
-pin_id = str(datetime.date.today())
+pin_id = str(time_6am.date())
 my_pin = Pin(id=pin_id, time= time_zulu, layout={
     'type': 'genericPin',
     'title': 'Daily Fortune',
