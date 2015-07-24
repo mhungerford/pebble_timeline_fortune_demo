@@ -5,7 +5,7 @@ Based off of the Daily Fortune app for Timeline in the Pebble appstore (removed 
 https://apps.getpebble.com/applications/55af2f53ac7b440eed000038
 ![Daily Fortune](https://www.filepicker.io/api/file/JCMdtCzkTD1XyA36bDAp/convert?h=160&w=360)
 
-![Fortune](https://www.filepicker.io/api/file/DHCuKERS3yXkCXuf24YM/convert?h=168&w=14)
+![Fortune](https://www.filepicker.io/api/file/DHCuKERS3yXkCXuf24YM/convert?h=168&w=144)
 
 Uses 
 * pypebbleapi for timeline pins with subscription (pythonanywhere.com/fortune_timeline.py = 21 lines of code)
