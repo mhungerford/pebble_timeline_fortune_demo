@@ -10,10 +10,10 @@ https://apps.getpebble.com/applications/55af2f53ac7b440eed000038
 ## Uses 
 * pypebbleapi for timeline pins with subscription 
 ** [fortune_timeline.py](pythonanywhere.com/fortune_timeline.py) = 21 lines of code
-* pebble javascript subscribing user to fotune timeline topic 
+* pebble javascript subscribing user to fortune timeline topic 
 ** [pebble-js-app.js](src/js/pebble-js-app.js) = 9 lines of code
 * minimal required c application running on watch 
-** [fortune_timeline.c](src/fotune_timeline.c) = 5 lines of code
+** [fortune_timeline.c](src/fortune_timeline.c) = 5 lines of code
 
 ## PythonAnywhere.com
 Original Daily Fortune Timeline Server was hosted using the free pythonanywhere.com
