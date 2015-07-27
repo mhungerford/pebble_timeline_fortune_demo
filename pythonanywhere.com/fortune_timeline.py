@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/python3
 
 # need to update requests on pythonanywhere.com
 # open bash console and type following pip install command
